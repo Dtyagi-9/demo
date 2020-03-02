@@ -1,0 +1,25 @@
+.cntr{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.cntr-1,.cntr-2{
+    margin: 0px 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.lable{
+    margin-left: 30px;
+}
+input{
+    border-radius:10px;
+    padding: 5px;
+    margin: 0px 6px;
+}
+.btn{
+    color:blue;
+    margin:10px 50px;
+    border-radius:10px;
+    padding : 5px;
+}
